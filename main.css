@@ -232,7 +232,7 @@ button:hover{
 
 
 .subcontainer1{
-    background-image: url(main/t1.jpg);
+    background-image: url(t1.jpg);
     width: 20vw;
     height: 20vh;
     
@@ -260,13 +260,13 @@ button:hover{
     margin-left: 10px;
 }
 .subcontainer2{
-    background-image: url(main/t2.jpg);
+    background-image: url(t2.jpg);
     width: 20vw;
     height: 20vh;
     
 }
 .subcontainer3{
-    background-image: url(main/t3.jpg);
+    background-image: url(t3.jpg);
     width: 20vw;
     height: 20vh;
 }
